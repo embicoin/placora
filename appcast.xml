@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <releases>
 	<!-- La más alta la más reciente -->
+	<release version="0.0.2" notesurl="http://a.pomf.se/ffvveb.html" fileurl="http://a.pomf.se/biwkat.zip"/>
 	<release version="0.0.1" notesurl="http://a.pomf.se/ffvveb.html" fileurl="http://a.pomf.se/layuhw.zip"/>
 	<release version="0.0.0" notesurl="http://a.pomf.se/ffvveb.html" fileurl="http://a.pomf.se/layuhw.zip"/>
 </releases>
